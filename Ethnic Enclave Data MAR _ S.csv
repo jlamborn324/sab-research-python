@@ -1,0 +1,853 @@
+﻿numcode,VMAR_Group,country,VMAR_Region,year,POLDIS,ECDIS,GROUPCON,INTERCON,CCGROUPSEV1
+201,African-Americans,United States of America,Western Democracies and Japan,2004,1,1,2,1,1
+201,African-Americans,United States of America,Western Democracies and Japan,2005,1,1,2,1,3
+201,African-Americans,United States of America,Western Democracies and Japan,2006,1,1,2,1,3
+202,Hispanics,United States of America,Western Democracies and Japan,2004,1,1,2,1,3
+202,Hispanics,United States of America,Western Democracies and Japan,2005,1,1,2,1,3
+202,Hispanics,United States of America,Western Democracies and Japan,2006,1,1,2,1,3
+203,Native Americans,United States of America,Western Democracies and Japan,2004,1,1,1,1,-99
+203,Native Americans,United States of America,Western Democracies and Japan,2005,1,1,1,1,-99
+203,Native Americans,United States of America,Western Democracies and Japan,2006,1,1,1,1,-99
+204,Native Hawaiians,United States of America,Western Democracies and Japan,2004,0,1,2,0,0
+204,Native Hawaiians,United States of America,Western Democracies and Japan,2005,0,1,2,0,0
+204,Native Hawaiians,United States of America,Western Democracies and Japan,2006,0,1,2,0,0
+2001,Quebecois,Canada,Western Democracies and Japan,2004,0,0,3,0,0
+2001,Quebecois,Canada,Western Democracies and Japan,2005,0,0,3,0,0
+2001,Quebecois,Canada,Western Democracies and Japan,2006,0,0,3,0,0
+2002,French Canadians,Canada,Western Democracies and Japan,2004,0,1,2,0,0
+2002,French Canadians,Canada,Western Democracies and Japan,2005,0,1,2,0,0
+2002,French Canadians,Canada,Western Democracies and Japan,2006,0,1,2,0,0
+2003,Indigenous Peoples,Canada,Western Democracies and Japan,2004,1,1,0,1,-99
+2003,Indigenous Peoples,Canada,Western Democracies and Japan,2005,1,1,0,1,-99
+2003,Indigenous Peoples,Canada,Western Democracies and Japan,2006,1,1,0,1,1
+4201,Haitian Blacks,Dominican Republic,Latin America and the Caribbean,2004,4,4,0,1,1
+4201,Haitian Blacks,Dominican Republic,Latin America and the Caribbean,2005,4,4,0,1,3
+4201,Haitian Blacks,Dominican Republic,Latin America and the Caribbean,2006,4,4,0,1,3
+7002,Mayans,Mexico,Latin America and the Caribbean,2004,3,3,3,0,0
+7002,Mayans,Mexico,Latin America and the Caribbean,2005,3,3,3,0,0
+7002,Mayans,Mexico,Latin America and the Caribbean,2006,3,3,3,0,0
+7003,Zapotecs,Mexico,Latin America and the Caribbean,2004,3,3,3,0,0
+7003,Zapotecs,Mexico,Latin America and the Caribbean,2005,3,3,3,0,0
+7003,Zapotecs,Mexico,Latin America and the Caribbean,2006,3,3,3,0,0
+7004,Other Indigenous Peoples,Mexico,Latin America and the Caribbean,2004,3,3,0,0,0
+7004,Other Indigenous Peoples,Mexico,Latin America and the Caribbean,2005,3,3,0,0,0
+7004,Other Indigenous Peoples,Mexico,Latin America and the Caribbean,2006,3,3,0,0,0
+9002,Indigenous Peoples,Guatemala,Latin America and the Caribbean,2004,3,3,2,0,0
+9002,Indigenous Peoples,Guatemala,Latin America and the Caribbean,2005,3,3,2,0,0
+9002,Indigenous Peoples,Guatemala,Latin America and the Caribbean,2006,3,3,2,0,0
+9101,Black Karibs,Honduras,Latin America and the Caribbean,2004,3,4,3,0,0
+9101,Black Karibs,Honduras,Latin America and the Caribbean,2005,3,4,3,0,0
+9101,Black Karibs,Honduras,Latin America and the Caribbean,2006,3,4,3,0,0
+9102,Indigenous Peoples,Honduras,Latin America and the Caribbean,2004,3,3,2,1,3
+9102,Indigenous Peoples,Honduras,Latin America and the Caribbean,2005,3,3,2,1,2
+9102,Indigenous Peoples,Honduras,Latin America and the Caribbean,2006,3,3,2,1,0
+9201,Indigenous Peoples,El Salvador,Latin America and the Caribbean,2004,2,3,0,0,0
+9201,Indigenous Peoples,El Salvador,Latin America and the Caribbean,2005,2,3,0,0,0
+9201,Indigenous Peoples,El Salvador,Latin America and the Caribbean,2006,2,3,0,0,0
+9302,Indigenous Peoples,Nicaragua,Latin America and the Caribbean,2004,1,1,3,0,0
+9302,Indigenous Peoples,Nicaragua,Latin America and the Caribbean,2005,1,1,3,0,0
+9302,Indigenous Peoples,Nicaragua,Latin America and the Caribbean,2006,1,1,3,0,0
+9401,Antillean Blacks,Costa Rica,Latin America and the Caribbean,2004,1,1,3,0,0
+9401,Antillean Blacks,Costa Rica,Latin America and the Caribbean,2005,1,1,3,0,0
+9401,Antillean Blacks,Costa Rica,Latin America and the Caribbean,2006,1,1,3,0,0
+9501,Blacks,Panama,Latin America and the Caribbean,2004,3,3,1,0,0
+9501,Blacks,Panama,Latin America and the Caribbean,2005,3,3,1,0,0
+9501,Blacks,Panama,Latin America and the Caribbean,2006,3,3,1,0,0
+9502,Indigenous Peoples,Panama,Latin America and the Caribbean,2004,3,3,2,1,1
+9502,Indigenous Peoples,Panama,Latin America and the Caribbean,2005,3,3,2,0,0
+9502,Indigenous Peoples,Panama,Latin America and the Caribbean,2006,3,3,2,0,0
+9503,Chinese,Panama,Latin America and the Caribbean,2004,3,3,1,0,0
+9503,Chinese,Panama,Latin America and the Caribbean,2005,3,3,1,0,0
+9503,Chinese,Panama,Latin America and the Caribbean,2006,3,3,1,0,0
+10001,Blacks,Colombia,Latin America and the Caribbean,2004,3,3,3,1,3
+10001,Blacks,Colombia,Latin America and the Caribbean,2005,3,3,3,1,3
+10001,Blacks,Colombia,Latin America and the Caribbean,2006,3,3,3,1,3
+10004,Indigenous Peoples,Colombia,Latin America and the Caribbean,2004,3,3,1,1,5
+10004,Indigenous Peoples,Colombia,Latin America and the Caribbean,2005,3,3,1,1,3
+10004,Indigenous Peoples,Colombia,Latin America and the Caribbean,2006,3,3,1,1,3
+10101,Blacks,Venezuela,Latin America and the Caribbean,2004,3,3,2,0,0
+10101,Blacks,Venezuela,Latin America and the Caribbean,2005,3,3,2,0,0
+10101,Blacks,Venezuela,Latin America and the Caribbean,2006,3,3,2,0,0
+10102,Indigenous Peoples,Venezuela,Latin America and the Caribbean,2004,1,1,2,0,0
+10102,Indigenous Peoples,Venezuela,Latin America and the Caribbean,2005,1,1,2,1,3
+10102,Indigenous Peoples,Venezuela,Latin America and the Caribbean,2006,1,1,2,0,0
+11001,Africans,Guyana,Latin America and the Caribbean,2004,1,3,2,1,3
+11001,Africans,Guyana,Latin America and the Caribbean,2005,1,3,2,1,3
+11001,Africans,Guyana,Latin America and the Caribbean,2006,1,3,2,1,3
+11002,East Indians,Guyana,Latin America and the Caribbean,2004,0,0,2,1,3
+11002,East Indians,Guyana,Latin America and the Caribbean,2005,0,0,2,1,3
+11002,East Indians,Guyana,Latin America and the Caribbean,2006,0,0,2,1,3
+13001,Blacks,Ecuador,Latin America and the Caribbean,2004,3,3,3,0,0
+13001,Blacks,Ecuador,Latin America and the Caribbean,2005,3,3,3,0,0
+13001,Blacks,Ecuador,Latin America and the Caribbean,2006,3,3,3,0,0
+13002,Indigenous Highland Peoples,Ecuador,Latin America and the Caribbean,2004,3,3,3,1,3
+13002,Indigenous Highland Peoples,Ecuador,Latin America and the Caribbean,2005,3,3,3,1,3
+13002,Indigenous Highland Peoples,Ecuador,Latin America and the Caribbean,2006,3,3,3,1,1
+13003,Lowland Indigenous Peoples,Ecuador,Latin America and the Caribbean,2004,3,3,3,1,3
+13003,Lowland Indigenous Peoples,Ecuador,Latin America and the Caribbean,2005,3,3,3,1,3
+13003,Lowland Indigenous Peoples,Ecuador,Latin America and the Caribbean,2006,3,3,3,1,4
+13501,Blacks (Afro-Peruvians),Peru,Latin America and the Caribbean,2004,3,2,3,0,0
+13501,Blacks (Afro-Peruvians),Peru,Latin America and the Caribbean,2005,3,2,3,0,0
+13501,Blacks (Afro-Peruvians),Peru,Latin America and the Caribbean,2006,3,2,3,0,0
+13502,Indigenous Highland Peoples,Peru,Latin America and the Caribbean,2004,2,3,2,0,0
+13502,Indigenous Highland Peoples,Peru,Latin America and the Caribbean,2005,2,3,2,0,0
+13502,Indigenous Highland Peoples,Peru,Latin America and the Caribbean,2006,2,3,2,0,0
+13503,Lowland Indigenous Peoples,Peru,Latin America and the Caribbean,2004,2,3,3,0,0
+13503,Lowland Indigenous Peoples,Peru,Latin America and the Caribbean,2005,2,3,3,1,1
+13503,Lowland Indigenous Peoples,Peru,Latin America and the Caribbean,2006,2,3,3,1,1
+14001,Afro-Brazilians,Brazil,Latin America and the Caribbean,2004,3,3,1,0,0
+14001,Afro-Brazilians,Brazil,Latin America and the Caribbean,2005,3,3,1,0,0
+14001,Afro-Brazilians,Brazil,Latin America and the Caribbean,2006,3,3,1,0,0
+14002,Amazonian Indians,Brazil,Latin America and the Caribbean,2004,4,3,2,1,5
+14002,Amazonian Indians,Brazil,Latin America and the Caribbean,2005,4,3,2,1,3
+14002,Amazonian Indians,Brazil,Latin America and the Caribbean,2006,4,3,2,1,3
+14501,Indigenous Highland Peoples,Bolivia,Latin America and the Caribbean,2004,1,1,3,0,0
+14501,Indigenous Highland Peoples,Bolivia,Latin America and the Caribbean,2005,1,1,3,1,1
+14501,Indigenous Highland Peoples,Bolivia,Latin America and the Caribbean,2006,1,1,3,1,3
+14502,Lowland Indigenous Peoples,Bolivia,Latin America and the Caribbean,2004,3,2,3,1,1
+14502,Lowland Indigenous Peoples,Bolivia,Latin America and the Caribbean,2005,3,2,3,0,0
+14502,Lowland Indigenous Peoples,Bolivia,Latin America and the Caribbean,2006,3,2,3,1,1
+15002,Indigenous Peoples,Paraguay,Latin America and the Caribbean,2004,1,3,1,1,1
+15002,Indigenous Peoples,Paraguay,Latin America and the Caribbean,2005,1,3,1,0,0
+15002,Indigenous Peoples,Paraguay,Latin America and the Caribbean,2006,1,3,1,0,0
+15501,Indigenous Peoples,Chile,Latin America and the Caribbean,2004,2,2,1,1,2
+15501,Indigenous Peoples,Chile,Latin America and the Caribbean,2005,2,2,1,-99,-99
+15501,Indigenous Peoples,Chile,Latin America and the Caribbean,2006,2,2,1,-99,-99
+16001,Jews,Argentina,Latin America and the Caribbean,2004,1,0,1,1,1
+16001,Jews,Argentina,Latin America and the Caribbean,2005,1,0,1,1,1
+16001,Jews,Argentina,Latin America and the Caribbean,2006,1,0,1,1,1
+16002,Indigenous Peoples,Argentina,Latin America and the Caribbean,2004,3,3,3,1,3
+16002,Indigenous Peoples,Argentina,Latin America and the Caribbean,2005,3,3,3,0,0
+16002,Indigenous Peoples,Argentina,Latin America and the Caribbean,2006,3,3,3,0,0
+20003,Catholics in Northern Ireland,United Kingdom,Western Democracies and Japan,2004,1,3,3,1,1
+20003,Catholics in Northern Ireland,United Kingdom,Western Democracies and Japan,2005,1,3,3,1,1
+20003,Catholics in Northern Ireland,United Kingdom,Western Democracies and Japan,2006,1,3,3,1,3
+20004,Scots,United Kingdom,Western Democracies and Japan,2004,0,0,3,0,0
+20004,Scots,United Kingdom,Western Democracies and Japan,2005,0,0,3,0,0
+20004,Scots,United Kingdom,Western Democracies and Japan,2006,0,0,3,0,0
+20005,Afro-Caribbeans,United Kingdom,Western Democracies and Japan,2004,2,3,1,0,0
+20005,Afro-Caribbeans,United Kingdom,Western Democracies and Japan,2005,2,3,1,1,5
+20005,Afro-Caribbeans,United Kingdom,Western Democracies and Japan,2006,2,3,1,0,0
+20006,Asians,United Kingdom,Western Democracies and Japan,2004,1,3,1,1,3
+20006,Asians,United Kingdom,Western Democracies and Japan,2005,1,3,1,1,5
+20006,Asians,United Kingdom,Western Democracies and Japan,2006,1,3,1,1,3
+22002,Basques,France,Western Democracies and Japan,2004,0,0,3,0,0
+22002,Basques,France,Western Democracies and Japan,2005,0,0,3,0,0
+22002,Basques,France,Western Democracies and Japan,2006,0,0,3,0,0
+22004,Corsicans,France,Western Democracies and Japan,2004,0,1,3,1,3
+22004,Corsicans,France,Western Democracies and Japan,2005,0,1,3,1,1
+22004,Corsicans,France,Western Democracies and Japan,2006,0,1,3,1,1
+22006,Muslim (Noncitizens),France,Western Democracies and Japan,2004,3,3,1,1,1
+22006,Muslim (Noncitizens),France,Western Democracies and Japan,2005,3,3,1,1,1
+22006,Muslim (Noncitizens),France,Western Democracies and Japan,2006,3,3,1,1,3
+22007,Roma,France,Western Democracies and Japan,2004,3,3,0,0,0
+22007,Roma,France,Western Democracies and Japan,2005,3,3,0,1,3
+22007,Roma,France,Western Democracies and Japan,2006,3,3,0,0,0
+22501,Jurassians,Switzerland,Western Democracies and Japan,2004,0,0,3,0,0
+22501,Jurassians,Switzerland,Western Democracies and Japan,2005,0,0,3,0,0
+22501,Jurassians,Switzerland,Western Democracies and Japan,2006,0,0,3,0,0
+22502,Foreign Workers,Switzerland,Western Democracies and Japan,2004,4,2,0,1,1
+22502,Foreign Workers,Switzerland,Western Democracies and Japan,2005,4,2,0,1,1
+22502,Foreign Workers,Switzerland,Western Democracies and Japan,2006,4,2,0,1,1
+23001,Basques,Spain,Western Democracies and Japan,2004,0,0,3,0,0
+23001,Basques,Spain,Western Democracies and Japan,2005,0,0,3,0,0
+23001,Basques,Spain,Western Democracies and Japan,2006,0,0,3,0,0
+23002,Catalans,Spain,Western Democracies and Japan,2004,0,0,3,0,0
+23002,Catalans,Spain,Western Democracies and Japan,2005,0,0,3,0,0
+23002,Catalans,Spain,Western Democracies and Japan,2006,0,0,3,0,0
+23003,Roma,Spain,Western Democracies and Japan,2004,2,3,1,0,0
+23003,Roma,Spain,Western Democracies and Japan,2005,2,3,1,1,1
+23003,Roma,Spain,Western Democracies and Japan,2006,2,3,1,1,1
+25501,Turks,Germany,Western Democracies and Japan,2004,1,2,1,1,3
+25501,Turks,Germany,Western Democracies and Japan,2005,1,2,1,1,1
+25501,Turks,Germany,Western Democracies and Japan,2006,1,2,1,1,1
+31001,Roma,Hungary,Post-communist States,2004,1,3,0,1,1
+31001,Roma,Hungary,Post-communist States,2005,1,3,0,1,3
+31001,Roma,Hungary,Post-communist States,2006,1,3,0,1,3
+31602,Roma,Czech Republic,Post-communist States,2004,3,3,0,1,3
+31602,Roma,Czech Republic,Post-communist States,2005,3,3,0,1,1
+31602,Roma,Czech Republic,Post-communist States,2006,3,3,0,0,0
+31603,Slovaks,Czech Republic,Post-communist States,2004,0,0,2,0,0
+31603,Slovaks,Czech Republic,Post-communist States,2005,0,0,2,0,0
+31603,Slovaks,Czech Republic,Post-communist States,2006,0,0,2,0,0
+31701,Hungarians,Slovakia,Post-communist States,2004,0,2,3,0,0
+31701,Hungarians,Slovakia,Post-communist States,2005,0,2,3,0,0
+31701,Hungarians,Slovakia,Post-communist States,2006,0,2,3,1,1
+31702,Roma,Slovakia,Post-communist States,2004,1,1,2,0,0
+31702,Roma,Slovakia,Post-communist States,2005,1,1,2,0,0
+31702,Roma,Slovakia,Post-communist States,2006,1,1,2,1,1
+32501,South Tyrolians,Italy,Western Democracies and Japan,2004,0,0,3,0,0
+32501,South Tyrolians,Italy,Western Democracies and Japan,2005,0,0,3,0,0
+32501,South Tyrolians,Italy,Western Democracies and Japan,2006,0,0,3,0,0
+32503,Sardinians,Italy,Western Democracies and Japan,2004,0,1,3,0,0
+32503,Sardinians,Italy,Western Democracies and Japan,2005,0,1,3,0,0
+32503,Sardinians,Italy,Western Democracies and Japan,2006,0,1,3,0,0
+32504,Roma,Italy,Western Democracies and Japan,2004,3,3,1,1,1
+32504,Roma,Italy,Western Democracies and Japan,2005,3,3,1,1,1
+32504,Roma,Italy,Western Democracies and Japan,2006,3,3,1,0,0
+33901,Greeks,Albania,Post-communist States,2004,1,3,3,0,0
+33901,Greeks,Albania,Post-communist States,2005,1,3,3,0,0
+33901,Greeks,Albania,Post-communist States,2006,1,3,3,0,0
+34301,Albanians,Macedonia,Post-communist States,2004,1,1,3,1,1
+34301,Albanians,Macedonia,Post-communist States,2005,1,1,3,1,1
+34301,Albanians,Macedonia,Post-communist States,2006,1,1,3,0,0
+34302,Serbs,Macedonia,Post-communist States,2004,0,0,2,1,1
+34302,Serbs,Macedonia,Post-communist States,2005,0,0,2,-99,1
+34302,Serbs,Macedonia,Post-communist States,2006,0,0,2,-99,-99
+34303,Roma,Macedonia,Post-communist States,2004,3,3,1,-99,-99
+34303,Roma,Macedonia,Post-communist States,2005,3,3,1,1,1
+34303,Roma,Macedonia,Post-communist States,2006,3,3,1,-99,-99
+34401,Serbs,Croatia,Post-communist States,2004,3,3,1,1,1
+34401,Serbs,Croatia,Post-communist States,2005,3,3,1,1,3
+34401,Serbs,Croatia,Post-communist States,2006,3,3,1,1,1
+34501,Kosovo Albanians,Yugoslavia,Post-communist States,2004,0,0,3,1,5
+34501,Kosovo Albanians,Yugoslavia,Post-communist States,2005,0,0,3,1,3
+34501,Kosovo Albanians,Yugoslavia,Post-communist States,2006,0,0,3,1,3
+34504,Hungarians,Yugoslavia,Post-communist States,2004,0,0,3,1,3
+34504,Hungarians,Yugoslavia,Post-communist States,2005,0,0,3,1,1
+34504,Hungarians,Yugoslavia,Post-communist States,2006,0,0,3,1,1
+34505,Sandzak Muslims,Yugoslavia,Post-communist States,2004,3,2,3,1,1
+34505,Sandzak Muslims,Yugoslavia,Post-communist States,2005,3,2,3,1,1
+34505,Sandzak Muslims,Yugoslavia,Post-communist States,2006,3,2,3,1,1
+34506,Roma,Yugoslavia,Post-communist States,2004,3,3,0,1,1
+34506,Roma,Yugoslavia,Post-communist States,2005,3,3,0,1,3
+34506,Roma,Yugoslavia,Post-communist States,2006,3,3,0,1,1
+34507,Croats,Yugoslavia,Post-communist States,2004,2,3,1,1,1
+34507,Croats,Yugoslavia,Post-communist States,2005,2,3,1,1,1
+34507,Croats,Yugoslavia,Post-communist States,2006,2,3,1,1,1
+34601,Serbs,Bosnia,Post-communist States,2004,0,2,2,1,3
+34601,Serbs,Bosnia,Post-communist States,2005,0,2,2,1,3
+34601,Serbs,Bosnia,Post-communist States,2006,0,2,2,1,3
+34602,Croats,Bosnia,Post-communist States,2004,0,0,2,1,3
+34602,Croats,Bosnia,Post-communist States,2005,0,0,2,1,1
+34602,Croats,Bosnia,Post-communist States,2006,0,0,2,1,3
+34603,Muslims,Bosnia,Post-communist States,2004,0,2,2,1,3
+34603,Muslims,Bosnia,Post-communist States,2005,0,2,2,1,3
+34603,Muslims,Bosnia,Post-communist States,2006,0,2,2,1,3
+35001,Muslims,Greece,Western Democracies and Japan,2004,3,1,3,1,1
+35001,Muslims,Greece,Western Democracies and Japan,2005,3,1,3,0,0
+35001,Muslims,Greece,Western Democracies and Japan,2006,3,1,3,0,0
+35002,Roma,Greece,Western Democracies and Japan,2004,4,1,0,1,5
+35002,Roma,Greece,Western Democracies and Japan,2005,4,1,0,0,0
+35002,Roma,Greece,Western Democracies and Japan,2006,4,1,0,0,0
+35201,Turkish Cypriots,Cyprus,Middle East and North Africa,2004,0,0,3,1,3
+35201,Turkish Cypriots,Cyprus,Middle East and North Africa,2005,0,0,3,0,0
+35201,Turkish Cypriots,Cyprus,Middle East and North Africa,2006,0,0,3,1,1
+35501,Turks,Bulgaria,Post-communist States,2004,0,2,2,0,0
+35501,Turks,Bulgaria,Post-communist States,2005,0,2,2,0,0
+35501,Turks,Bulgaria,Post-communist States,2006,0,2,2,1,1
+35502,Roma,Bulgaria,Post-communist States,2004,3,1,0,1,1
+35502,Roma,Bulgaria,Post-communist States,2005,1,1,0,1,1
+35502,Roma,Bulgaria,Post-communist States,2006,1,1,0,0,0
+35901,Gagauz,Moldova,Post-communist States,2004,0,0,3,0,0
+35901,Gagauz,Moldova,Post-communist States,2005,0,0,3,0,0
+35901,Gagauz,Moldova,Post-communist States,2006,0,0,3,0,0
+35902,Slavs,Moldova,Post-communist States,2004,0,0,1,1,2
+35902,Slavs,Moldova,Post-communist States,2005,0,0,1,0,0
+35902,Slavs,Moldova,Post-communist States,2006,0,0,1,0,0
+36002,Magyars (Hungarians),Romania,Post-communist States,2004,0,0,3,1,2
+36002,Magyars (Hungarians),Romania,Post-communist States,2005,0,0,3,0,0
+36002,Magyars (Hungarians),Romania,Post-communist States,2006,0,0,3,1,2
+36003,Roma,Romania,Post-communist States,2004,3,3,0,1,3
+36003,Roma,Romania,Post-communist States,2005,3,3,0,1,1
+36003,Roma,Romania,Post-communist States,2006,3,3,0,1,1
+36504,Chechens,Russia,Post-communist States,2004,4,4,3,1,2
+36504,Chechens,Russia,Post-communist States,2005,4,4,3,1,1
+36504,Chechens,Russia,Post-communist States,2006,4,4,3,1,4
+36505,Tatars,Russia,Post-communist States,2004,0,0,2,0,0
+36505,Tatars,Russia,Post-communist States,2005,0,0,2,0,0
+36505,Tatars,Russia,Post-communist States,2006,0,0,2,0,0
+36511,Karachay,Russia,Post-communist States,2004,0,0,3,0,0
+36511,Karachay,Russia,Post-communist States,2005,0,0,3,-99,-99
+36511,Karachay,Russia,Post-communist States,2006,0,0,3,0,0
+36517,Roma,Russia,Post-communist States,2004,4,4,0,1,3
+36517,Roma,Russia,Post-communist States,2005,4,4,0,1,5
+36517,Roma,Russia,Post-communist States,2006,4,4,0,1,5
+36524,Avars,Russia,Post-communist States,2004,0,0,3,0,0
+36524,Avars,Russia,Post-communist States,2005,0,0,3,1,1
+36524,Avars,Russia,Post-communist States,2006,0,0,3,0,0
+36528,Ingush,Russia,Post-communist States,2004,4,2,3,1,4
+36528,Ingush,Russia,Post-communist States,2005,4,2,3,1,3
+36528,Ingush,Russia,Post-communist States,2006,4,2,3,0,0
+36531,Lezgins,Russia,Post-communist States,2004,0,2,3,0,0
+36531,Lezgins,Russia,Post-communist States,2005,0,2,3,0,0
+36531,Lezgins,Russia,Post-communist States,2006,0,2,3,0,0
+36533,Buryat,Russia,Post-communist States,2004,0,1,3,0,0
+36533,Buryat,Russia,Post-communist States,2005,0,1,3,0,0
+36533,Buryat,Russia,Post-communist States,2006,0,1,3,0,0
+36534,Kumyks,Russia,Post-communist States,2004,0,0,3,0,0
+36534,Kumyks,Russia,Post-communist States,2005,0,0,3,0,0
+36534,Kumyks,Russia,Post-communist States,2006,0,0,3,-99,-99
+36537,Tuvinians,Russia,Post-communist States,2004,0,1,3,0,0
+36537,Tuvinians,Russia,Post-communist States,2005,0,1,3,0,0
+36537,Tuvinians,Russia,Post-communist States,2006,0,1,3,0,0
+36538,Yakut,Russia,Post-communist States,2004,0,2,3,0,0
+36538,Yakut,Russia,Post-communist States,2005,0,2,3,0,0
+36538,Yakut,Russia,Post-communist States,2006,0,2,3,0,0
+36601,Russians,Estonia,Post-communist States,2004,4,4,1,0,0
+36601,Russians,Estonia,Post-communist States,2005,4,4,1,0,0
+36601,Russians,Estonia,Post-communist States,2006,4,4,1,0,0
+36701,Russians,Latvia,Post-communist States,2004,1,3,1,0,0
+36701,Russians,Latvia,Post-communist States,2005,1,3,1,1,1
+36701,Russians,Latvia,Post-communist States,2006,1,3,1,0,0
+36801,Poles,Lithuania,Post-communist States,2004,0,2,3,0,0
+36801,Poles,Lithuania,Post-communist States,2005,0,2,3,0,0
+36801,Poles,Lithuania,Post-communist States,2006,0,2,3,0,0
+36802,Russians,Lithuania,Post-communist States,2004,0,0,1,0,0
+36802,Russians,Lithuania,Post-communist States,2005,0,0,1,0,0
+36802,Russians,Lithuania,Post-communist States,2006,0,0,1,0,0
+36902,Russians,Ukraine,Post-communist States,2004,0,0,3,1,1
+36902,Russians,Ukraine,Post-communist States,2005,0,0,3,1,1
+36902,Russians,Ukraine,Post-communist States,2006,0,0,3,1,1
+36904,Crimean Tatars,Ukraine,Post-communist States,2004,1,1,3,1,3
+36904,Crimean Tatars,Ukraine,Post-communist States,2005,1,1,3,1,2
+36904,Crimean Tatars,Ukraine,Post-communist States,2006,1,1,3,1,3
+36905,Crimean Russians,Ukraine,Post-communist States,2004,0,0,3,1,3
+36905,Crimean Russians,Ukraine,Post-communist States,2005,0,0,3,1,2
+36905,Crimean Russians,Ukraine,Post-communist States,2006,0,0,3,1,3
+37001,Russians,Belarus,Post-communist States,2004,0,0,1,1,1
+37001,Russians,Belarus,Post-communist States,2005,0,0,1,0,0
+37001,Russians,Belarus,Post-communist States,2006,0,0,1,1,1
+37002,Poles,Belarus,Post-communist States,2004,4,3,2,0,0
+37002,Poles,Belarus,Post-communist States,2005,4,3,2,0,0
+37002,Poles,Belarus,Post-communist States,2006,4,3,2,0,0
+37201,Abkhazians,Georgia,Post-communist States,2004,0,0,3,0,0
+37201,Abkhazians,Georgia,Post-communist States,2005,0,0,3,0,0
+37201,Abkhazians,Georgia,Post-communist States,2006,0,0,3,1,3
+37202,Adzhars,Georgia,Post-communist States,2004,0,0,3,0,0
+37202,Adzhars,Georgia,Post-communist States,2005,0,0,3,1,1
+37202,Adzhars,Georgia,Post-communist States,2006,0,0,3,-99,-99
+37203,Ossetians (South),Georgia,Post-communist States,2004,0,0,2,1,3
+37203,Ossetians (South),Georgia,Post-communist States,2005,0,0,2,1,1
+37203,Ossetians (South),Georgia,Post-communist States,2006,0,0,2,-99,-99
+37204,Russians,Georgia,Post-communist States,2004,0,0,1,0,0
+37204,Russians,Georgia,Post-communist States,2005,0,0,1,0,0
+37204,Russians,Georgia,Post-communist States,2006,0,0,1,0,0
+37301,Armenians,Azerbaijan,Post-communist States,2004,0,0,3,0,0
+37301,Armenians,Azerbaijan,Post-communist States,2005,0,0,3,0,0
+37301,Armenians,Azerbaijan,Post-communist States,2006,0,0,3,0,0
+37302,Lezgins,Azerbaijan,Post-communist States,2004,0,0,1,0,0
+37302,Lezgins,Azerbaijan,Post-communist States,2005,0,0,1,0,0
+37302,Lezgins,Azerbaijan,Post-communist States,2006,0,0,1,0,0
+37303,Russians,Azerbaijan,Post-communist States,2004,0,0,1,0,0
+37303,Russians,Azerbaijan,Post-communist States,2005,0,0,1,0,0
+37303,Russians,Azerbaijan,Post-communist States,2006,0,0,1,0,0
+43201,Tuareg,Mali,Sub-Saharan Africa,2004,1,1,3,1,3
+43201,Tuareg,Mali,Sub-Saharan Africa,2005,1,1,3,0,0
+43201,Tuareg,Mali,Sub-Saharan Africa,2006,1,1,3,1,5
+43301,Diolas in Casamance,Senegal,Sub-Saharan Africa,2004,4,2,3,1,5
+43301,Diolas in Casamance,Senegal,Sub-Saharan Africa,2005,4,2,3,0,0
+43301,Diolas in Casamance,Senegal,Sub-Saharan Africa,2006,4,2,3,1,5
+43501,Kewri,Mauritania,Sub-Saharan Africa,2004,3,3,3,0,0
+43501,Kewri,Mauritania,Sub-Saharan Africa,2005,3,3,3,0,0
+43501,Kewri,Mauritania,Sub-Saharan Africa,2006,3,3,3,0,0
+43502,Black Moors,Mauritania,Sub-Saharan Africa,2004,3,4,0,0,0
+43502,Black Moors,Mauritania,Sub-Saharan Africa,2005,3,4,0,0,0
+43502,Black Moors,Mauritania,Sub-Saharan Africa,2006,3,4,0,0,0
+43603,Tuareg,Niger,Sub-Saharan Africa,2004,2,2,2,1,3
+43603,Tuareg,Niger,Sub-Saharan Africa,2005,2,2,2,-99,-99
+43603,Tuareg,Niger,Sub-Saharan Africa,2006,2,2,2,0,0
+43801,Fulani,Guinea,Sub-Saharan Africa,2004,3,0,3,0,0
+43801,Fulani,Guinea,Sub-Saharan Africa,2005,3,0,3,1,1
+43801,Fulani,Guinea,Sub-Saharan Africa,2006,3,0,3,0,0
+43802,Malinke,Guinea,Sub-Saharan Africa,2004,3,0,3,1,3
+43802,Malinke,Guinea,Sub-Saharan Africa,2005,3,0,3,1,5
+43802,Malinke,Guinea,Sub-Saharan Africa,2006,3,0,3,0,0
+43803,Susu,Guinea,Sub-Saharan Africa,2004,0,0,3,0,0
+43803,Susu,Guinea,Sub-Saharan Africa,2005,0,0,3,0,0
+43803,Susu,Guinea,Sub-Saharan Africa,2006,0,0,3,0,0
+45101,Creoles,Sierra Leone,Sub-Saharan Africa,2004,0,0,1,0,0
+45101,Creoles,Sierra Leone,Sub-Saharan Africa,2005,0,0,1,0,0
+45101,Creoles,Sierra Leone,Sub-Saharan Africa,2006,0,0,1,0,0
+45102,Limba,Sierra Leone,Sub-Saharan Africa,2004,0,1,3,0,0
+45102,Limba,Sierra Leone,Sub-Saharan Africa,2005,0,1,3,-99,-99
+45102,Limba,Sierra Leone,Sub-Saharan Africa,2006,0,1,3,1,3
+45103,Mende,Sierra Leone,Sub-Saharan Africa,2004,0,0,3,0,0
+45103,Mende,Sierra Leone,Sub-Saharan Africa,2005,0,0,3,0,0
+45103,Mende,Sierra Leone,Sub-Saharan Africa,2006,0,0,3,0,0
+45104,Temne,Sierra Leone,Sub-Saharan Africa,2004,0,2,3,0,0
+45104,Temne,Sierra Leone,Sub-Saharan Africa,2005,0,2,3,0,0
+45104,Temne,Sierra Leone,Sub-Saharan Africa,2006,0,2,3,0,0
+45201,Ashanti,Ghana,Sub-Saharan Africa,2004,0,0,3,0,0
+45201,Ashanti,Ghana,Sub-Saharan Africa,2005,0,0,3,-99,-99
+45201,Ashanti,Ghana,Sub-Saharan Africa,2006,0,0,3,0,0
+45202,Ewe,Ghana,Sub-Saharan Africa,2004,0,0,3,0,0
+45202,Ewe,Ghana,Sub-Saharan Africa,2005,0,0,3,1,3
+45202,Ewe,Ghana,Sub-Saharan Africa,2006,0,0,3,0,0
+45203,Mossi-Dagomba,Ghana,Sub-Saharan Africa,2004,2,2,3,0,0
+45203,Mossi-Dagomba,Ghana,Sub-Saharan Africa,2005,2,2,3,0,0
+45203,Mossi-Dagomba,Ghana,Sub-Saharan Africa,2006,2,2,3,0,0
+46101,Ewe,Togo,Sub-Saharan Africa,2004,2,0,3,0,0
+46101,Ewe,Togo,Sub-Saharan Africa,2005,2,0,3,1,1
+46101,Ewe,Togo,Sub-Saharan Africa,2006,2,0,3,0,0
+46102,Kabre,Togo,Sub-Saharan Africa,2004,0,0,2,0,0
+46102,Kabre,Togo,Sub-Saharan Africa,2005,0,0,2,1,1
+46102,Kabre,Togo,Sub-Saharan Africa,2006,0,0,2,0,0
+47101,Kirdi,Cameroon,Sub-Saharan Africa,2004,2,2,3,0,0
+47101,Kirdi,Cameroon,Sub-Saharan Africa,2005,2,2,3,0,0
+47101,Kirdi,Cameroon,Sub-Saharan Africa,2006,2,2,3,0,0
+47102,Westerners,Cameroon,Sub-Saharan Africa,2004,4,3,3,1,3
+47102,Westerners,Cameroon,Sub-Saharan Africa,2005,4,3,3,0,0
+47102,Westerners,Cameroon,Sub-Saharan Africa,2006,4,3,3,1,1
+47103,Bamileke,Cameroon,Sub-Saharan Africa,2004,3,0,3,0,0
+47103,Bamileke,Cameroon,Sub-Saharan Africa,2005,3,0,3,0,0
+47103,Bamileke,Cameroon,Sub-Saharan Africa,2006,3,0,3,1,3
+47503,Ibo,Nigeria,Sub-Saharan Africa,2004,0,0,2,1,5
+47503,Ibo,Nigeria,Sub-Saharan Africa,2005,0,0,2,1,3
+47503,Ibo,Nigeria,Sub-Saharan Africa,2006,0,0,2,1,5
+47504,Ogani,Nigeria,Sub-Saharan Africa,2004,2,3,3,0,0
+47504,Ogani,Nigeria,Sub-Saharan Africa,2005,2,3,3,0,0
+47504,Ogani,Nigeria,Sub-Saharan Africa,2006,2,3,3,0,0
+47505,Yoruba,Nigeria,Sub-Saharan Africa,2004,0,0,3,1,3
+47505,Yoruba,Nigeria,Sub-Saharan Africa,2005,0,0,3,0,0
+47505,Yoruba,Nigeria,Sub-Saharan Africa,2006,0,0,3,1,5
+47506,Ijaw,Nigeria,Sub-Saharan Africa,2004,3,4,3,1,5
+47506,Ijaw,Nigeria,Sub-Saharan Africa,2005,3,4,3,1,3
+47506,Ijaw,Nigeria,Sub-Saharan Africa,2006,3,4,3,1,5
+48302,Southerners,Chad,Sub-Saharan Africa,2004,3,0,3,1,5
+48302,Southerners,Chad,Sub-Saharan Africa,2005,3,0,3,1,3
+48302,Southerners,Chad,Sub-Saharan Africa,2006,3,0,3,1,3
+48401,Lari,Rep. of the Congo,Sub-Saharan Africa,2004,3,2,3,-99,-99
+48401,Lari,Rep. of the Congo,Sub-Saharan Africa,2005,3,2,3,1,1
+48401,Lari,Rep. of the Congo,Sub-Saharan Africa,2006,3,2,3,1,1
+48402,M'boshi,Rep. of the Congo,Sub-Saharan Africa,2004,0,0,3,0,0
+48402,M'boshi,Rep. of the Congo,Sub-Saharan Africa,2005,0,0,3,0,0
+48402,M'boshi,Rep. of the Congo,Sub-Saharan Africa,2006,0,0,3,0,0
+49003,Luba,Dem. Rep. of the Congo,Sub-Saharan Africa,2004,0,0,3,0,0
+49003,Luba,Dem. Rep. of the Congo,Sub-Saharan Africa,2005,0,0,3,0,0
+49003,Luba,Dem. Rep. of the Congo,Sub-Saharan Africa,2006,0,0,3,0,0
+49005,"Lunda Yeke",Dem. Rep. of the Congo,Sub-Saharan Africa,2004,2,2,3,0,0
+49005,"Lunda Yeke",Dem. Rep. of the Congo,Sub-Saharan Africa,2005,2,2,3,0,0
+49005,"Lunda Yeke",Dem. Rep. of the Congo,Sub-Saharan Africa,2006,2,2,3,0,0
+49008,Ngbandi,Dem. Rep. of the Congo,Sub-Saharan Africa,2004,3,0,3,-99,-99
+49008,Ngbandi,Dem. Rep. of the Congo,Sub-Saharan Africa,2005,3,0,3,0,0
+49008,Ngbandi,Dem. Rep. of the Congo,Sub-Saharan Africa,2006,3,0,3,0,0
+49009,Hutus,Dem. Rep. of the Congo,Sub-Saharan Africa,2004,4,3,3,1,5
+49009,Hutus,Dem. Rep. of the Congo,Sub-Saharan Africa,2005,1,3,3,1,3
+49009,Hutus,Dem. Rep. of the Congo,Sub-Saharan Africa,2006,1,3,3,-99,-99
+49010,Tutsis,Dem. Rep. of the Congo,Sub-Saharan Africa,2004,4,4,3,1,3
+49010,Tutsis,Dem. Rep. of the Congo,Sub-Saharan Africa,2005,1,1,3,1,3
+49010,Tutsis,Dem. Rep. of the Congo,Sub-Saharan Africa,2006,1,1,3,0,0
+50001,Acholi,Uganda,Sub-Saharan Africa,2004,0,2,3,1,5
+50001,Acholi,Uganda,Sub-Saharan Africa,2005,0,2,3,1,3
+50001,Acholi,Uganda,Sub-Saharan Africa,2006,0,2,3,1,3
+50003,Baganda,Uganda,Sub-Saharan Africa,2004,0,0,3,0,0
+50003,Baganda,Uganda,Sub-Saharan Africa,2005,0,0,3,0,0
+50003,Baganda,Uganda,Sub-Saharan Africa,2006,0,0,3,0,0
+50103,Kikuyu,Kenya,Sub-Saharan Africa,2004,1,0,3,1,3
+50103,Kikuyu,Kenya,Sub-Saharan Africa,2005,1,0,3,1,5
+50103,Kikuyu,Kenya,Sub-Saharan Africa,2006,1,0,3,1,3
+50104,Luo,Kenya,Sub-Saharan Africa,2004,0,0,2,0,0
+50104,Luo,Kenya,Sub-Saharan Africa,2005,2,0,2,0,0
+50104,Luo,Kenya,Sub-Saharan Africa,2006,2,0,2,0,0
+50105,Maasai,Kenya,Sub-Saharan Africa,2004,2,1,3,1,3
+50105,Maasai,Kenya,Sub-Saharan Africa,2005,2,1,3,1,3
+50105,Maasai,Kenya,Sub-Saharan Africa,2006,2,1,3,-99,-99
+50106,Somalis,Kenya,Sub-Saharan Africa,2004,4,2,3,0,0
+50106,Somalis,Kenya,Sub-Saharan Africa,2005,4,2,3,1,5
+50106,Somalis,Kenya,Sub-Saharan Africa,2006,4,2,3,0,0
+50109,Kalenjin,Kenya,Sub-Saharan Africa,2004,0,0,3,1,3
+50109,Kalenjin,Kenya,Sub-Saharan Africa,2005,0,0,3,0,0
+50109,Kalenjin,Kenya,Sub-Saharan Africa,2006,0,0,3,0,0
+50110,Luhya,Kenya,Sub-Saharan Africa,2004,0,1,2,0,0
+50110,Luhya,Kenya,Sub-Saharan Africa,2005,0,1,2,1,3
+50110,Luhya,Kenya,Sub-Saharan Africa,2006,0,1,2,0,0
+50111,Kisii,Kenya,Sub-Saharan Africa,2004,2,1,3,0,0
+50111,Kisii,Kenya,Sub-Saharan Africa,2005,2,1,3,0,0
+50111,Kisii,Kenya,Sub-Saharan Africa,2006,2,1,3,-99,-99
+51001,Zanzibaris,Tanzania,Sub-Saharan Africa,2004,0,0,3,0,0
+51001,Zanzibaris,Tanzania,Sub-Saharan Africa,2005,0,0,3,0,0
+51001,Zanzibaris,Tanzania,Sub-Saharan Africa,2006,0,0,3,0,0
+51601,Hutus,Burundi,Sub-Saharan Africa,2004,3,3,0,1,5
+51601,Hutus,Burundi,Sub-Saharan Africa,2005,1,3,0,-99,-99
+51601,Hutus,Burundi,Sub-Saharan Africa,2006,1,3,0,0,0
+51602,Tutsis,Burundi,Sub-Saharan Africa,2004,0,0,0,-99,-99
+51602,Tutsis,Burundi,Sub-Saharan Africa,2005,0,0,0,-99,-99
+51602,Tutsis,Burundi,Sub-Saharan Africa,2006,0,0,0,0,0
+51701,Tutsis,Rwanda,Sub-Saharan Africa,2004,0,0,0,1,3
+51701,Tutsis,Rwanda,Sub-Saharan Africa,2005,0,0,0,0,0
+51701,Tutsis,Rwanda,Sub-Saharan Africa,2006,0,0,0,0,0
+51702,Hutus,Rwanda,Sub-Saharan Africa,2004,3,2,0,0,0
+51702,Hutus,Rwanda,Sub-Saharan Africa,2005,3,2,0,0,0
+51702,Hutus,Rwanda,Sub-Saharan Africa,2006,3,2,0,0,0
+52001,Issaq,Somalia,Sub-Saharan Africa,2004,0,0,3,0,0
+52001,Issaq,Somalia,Sub-Saharan Africa,2005,0,0,3,0,0
+52001,Issaq,Somalia,Sub-Saharan Africa,2006,0,0,3,0,0
+52201,Afars,Djibouti,Sub-Saharan Africa,2004,1,3,3,0,0
+52201,Afars,Djibouti,Sub-Saharan Africa,2005,1,3,3,0,0
+52201,Afars,Djibouti,Sub-Saharan Africa,2006,1,3,3,0,0
+53001,Afars,Ethiopia,Sub-Saharan Africa,2004,1,1,3,1,3
+53001,Afars,Ethiopia,Sub-Saharan Africa,2005,1,1,3,1,3
+53001,Afars,Ethiopia,Sub-Saharan Africa,2006,1,1,3,1,3
+53004,Oromo,Ethiopia,Sub-Saharan Africa,2004,1,0,2,1,5
+53004,Oromo,Ethiopia,Sub-Saharan Africa,2005,1,0,2,1,5
+53004,Oromo,Ethiopia,Sub-Saharan Africa,2006,1,0,2,1,3
+53005,Somalis,Ethiopia,Sub-Saharan Africa,2004,2,1,3,1,3
+53005,Somalis,Ethiopia,Sub-Saharan Africa,2005,2,1,3,1,5
+53005,Somalis,Ethiopia,Sub-Saharan Africa,2006,2,1,3,0,0
+53006,Tigreans,Ethiopia,Sub-Saharan Africa,2004,0,0,3,1,4
+53006,Tigreans,Ethiopia,Sub-Saharan Africa,2005,0,0,3,0,0
+53006,Tigreans,Ethiopia,Sub-Saharan Africa,2006,0,0,3,0,0
+53007,Amhara,Ethiopia,Sub-Saharan Africa,2004,0,0,3,0,0
+53007,Amhara,Ethiopia,Sub-Saharan Africa,2005,0,0,3,0,0
+53007,Amhara,Ethiopia,Sub-Saharan Africa,2006,0,0,3,0,0
+53101,Afars,Eritrea,Sub-Saharan Africa,2004,2,2,3,0,0
+53101,Afars,Eritrea,Sub-Saharan Africa,2005,2,2,3,0,0
+53101,Afars,Eritrea,Sub-Saharan Africa,2006,2,2,3,0,0
+54001,Bakongo,Angola,Sub-Saharan Africa,2004,2,2,3,0,0
+54001,Bakongo,Angola,Sub-Saharan Africa,2005,2,2,3,0,0
+54001,Bakongo,Angola,Sub-Saharan Africa,2006,2,2,3,0,0
+54002,Ovimbundu,Angola,Sub-Saharan Africa,2004,1,1,3,1,1
+54002,Ovimbundu,Angola,Sub-Saharan Africa,2005,1,1,3,1,3
+54002,Ovimbundu,Angola,Sub-Saharan Africa,2006,1,1,3,0,0
+54003,Cabinda,Angola,Sub-Saharan Africa,2004,4,3,3,0,0
+54003,Cabinda,Angola,Sub-Saharan Africa,2005,4,3,3,1,1
+54003,Cabinda,Angola,Sub-Saharan Africa,2006,4,3,3,0,0
+55101,Bemba,Zambia,Sub-Saharan Africa,2004,0,0,3,0,0
+55101,Bemba,Zambia,Sub-Saharan Africa,2005,0,0,3,0,0
+55101,Bemba,Zambia,Sub-Saharan Africa,2006,0,0,3,1,1
+55102,Lozi,Zambia,Sub-Saharan Africa,2004,0,1,3,0,0
+55102,Lozi,Zambia,Sub-Saharan Africa,2005,0,1,3,0,0
+55102,Lozi,Zambia,Sub-Saharan Africa,2006,0,1,3,0,0
+55201,Europeans,Zimbabwe,Sub-Saharan Africa,2004,4,4,1,1,4
+55201,Europeans,Zimbabwe,Sub-Saharan Africa,2005,4,4,1,0,0
+55201,Europeans,Zimbabwe,Sub-Saharan Africa,2006,4,4,1,0,0
+55203,Ndebele,Zimbabwe,Sub-Saharan Africa,2004,2,1,3,0,0
+55203,Ndebele,Zimbabwe,Sub-Saharan Africa,2005,2,1,3,0,0
+55203,Ndebele,Zimbabwe,Sub-Saharan Africa,2006,2,1,3,0,0
+56001,Asians,South Africa,Sub-Saharan Africa,2004,0,1,3,1,3
+56001,Asians,South Africa,Sub-Saharan Africa,2005,0,1,3,0,0
+56001,Asians,South Africa,Sub-Saharan Africa,2006,0,1,3,0,0
+56003,Coloreds,South Africa,Sub-Saharan Africa,2004,0,1,2,0,0
+56003,Coloreds,South Africa,Sub-Saharan Africa,2005,0,1,2,1,3
+56003,Coloreds,South Africa,Sub-Saharan Africa,2006,0,1,2,0,0
+56004,Europeans,South Africa,Sub-Saharan Africa,2004,0,0,1,1,3
+56004,Europeans,South Africa,Sub-Saharan Africa,2005,0,0,1,1,3
+56004,Europeans,South Africa,Sub-Saharan Africa,2006,0,0,1,1,3
+56005,Xhosa,South Africa,Sub-Saharan Africa,2004,0,1,2,1,5
+56005,Xhosa,South Africa,Sub-Saharan Africa,2005,0,1,2,0,0
+56005,Xhosa,South Africa,Sub-Saharan Africa,2006,0,1,2,0,0
+56006,Zulus,South Africa,Sub-Saharan Africa,2004,0,1,2,0,0
+56006,Zulus,South Africa,Sub-Saharan Africa,2005,0,1,2,0,0
+56006,Zulus,South Africa,Sub-Saharan Africa,2006,0,1,2,0,0
+56501,Europeans,Namibia,Sub-Saharan Africa,2004,0,0,1,1,1
+56501,Europeans,Namibia,Sub-Saharan Africa,2005,0,0,1,0,0
+56501,Europeans,Namibia,Sub-Saharan Africa,2006,0,0,1,0,0
+56502,San Bushmen,Namibia,Sub-Saharan Africa,2004,3,3,3,0,0
+56502,San Bushmen,Namibia,Sub-Saharan Africa,2005,3,3,3,0,0
+56502,San Bushmen,Namibia,Sub-Saharan Africa,2006,3,3,3,0,0
+56503,Basters,Namibia,Sub-Saharan Africa,2004,0,-99,3,0,0
+56503,Basters,Namibia,Sub-Saharan Africa,2005,0,-99,3,0,0
+56503,Basters,Namibia,Sub-Saharan Africa,2006,0,-99,3,0,0
+56504,East Caprivians,Namibia,Sub-Saharan Africa,2004,0,2,3,0,0
+56504,East Caprivians,Namibia,Sub-Saharan Africa,2005,0,2,3,0,0
+56504,East Caprivians,Namibia,Sub-Saharan Africa,2006,0,2,3,0,0
+57101,San Bushmen,Botswana,Sub-Saharan Africa,2004,3,3,0,0,0
+57101,San Bushmen,Botswana,Sub-Saharan Africa,2005,3,3,0,0,0
+57101,San Bushmen,Botswana,Sub-Saharan Africa,2006,3,3,0,0,0
+58002,Merina,Madagascar,Sub-Saharan Africa,2004,0,0,3,1,1
+58002,Merina,Madagascar,Sub-Saharan Africa,2005,0,0,3,0,0
+58002,Merina,Madagascar,Sub-Saharan Africa,2006,0,0,3,0,0
+60001,Berbers,Morocco,Middle East and North Africa,2004,0,2,3,0,0
+60001,Berbers,Morocco,Middle East and North Africa,2005,0,2,3,0,0
+60001,Berbers,Morocco,Middle East and North Africa,2006,0,2,3,0,0
+60003,Saharawis,Morocco,Middle East and North Africa,2004,2,2,3,0,0
+60003,Saharawis,Morocco,Middle East and North Africa,2005,2,2,3,1,1
+60003,Saharawis,Morocco,Middle East and North Africa,2006,2,2,3,0,0
+61501,Berbers,Algeria,Middle East and North Africa,2004,2,2,1,0,0
+61501,Berbers,Algeria,Middle East and North Africa,2005,2,2,1,0,0
+61501,Berbers,Algeria,Middle East and North Africa,2006,2,2,1,1,3
+62501,Southerners,Sudan,Sub-Saharan Africa,2004,4,2,3,1,5
+62501,Southerners,Sudan,Sub-Saharan Africa,2005,1,1,3,1,5
+62501,Southerners,Sudan,Sub-Saharan Africa,2006,1,1,3,1,5
+62503,Nuba,Sudan,Sub-Saharan Africa,2004,4,4,3,1,3
+62503,Nuba,Sudan,Sub-Saharan Africa,2005,4,4,3,1,3
+62503,Nuba,Sudan,Sub-Saharan Africa,2006,4,4,3,0,0
+62504,Darfur Black Muslims,Sudan,Sub-Saharan Africa,2004,4,4,3,1,6
+62504,Darfur Black Muslims,Sudan,Sub-Saharan Africa,2005,4,4,3,1,6
+62504,Darfur Black Muslims,Sudan,Sub-Saharan Africa,2006,4,4,3,1,6
+63002,Azerbaijanis,Iran,Middle East and North Africa,2004,0,0,3,1,1
+63002,Azerbaijanis,Iran,Middle East and North Africa,2005,0,0,3,1,1
+63002,Azerbaijanis,Iran,Middle East and North Africa,2006,0,0,3,0,0
+63003,Baha'is,Iran,Middle East and North Africa,2004,4,4,1,1,1
+63003,Baha'is,Iran,Middle East and North Africa,2005,4,4,1,1,1
+63003,Baha'is,Iran,Middle East and North Africa,2006,4,4,1,0,0
+63004,Bakhtiari,Iran,Middle East and North Africa,2004,2,2,3,0,0
+63004,Bakhtiari,Iran,Middle East and North Africa,2005,2,2,3,0,0
+63004,Bakhtiari,Iran,Middle East and North Africa,2006,2,2,3,0,0
+63005,Baluchis,Iran,Middle East and North Africa,2004,3,3,3,0,0
+63005,Baluchis,Iran,Middle East and North Africa,2005,3,3,3,0,0
+63005,Baluchis,Iran,Middle East and North Africa,2006,3,3,3,0,0
+63007,Kurds,Iran,Middle East and North Africa,2004,4,2,3,0,0
+63007,Kurds,Iran,Middle East and North Africa,2005,4,2,3,0,0
+63007,Kurds,Iran,Middle East and North Africa,2006,4,2,3,0,0
+63008,Turkmen,Iran,Middle East and North Africa,2004,4,3,3,0,0
+63008,Turkmen,Iran,Middle East and North Africa,2005,4,3,3,0,0
+63008,Turkmen,Iran,Middle East and North Africa,2006,4,3,3,0,0
+63009,Arabs,Iran,Middle East and North Africa,2004,1,3,2,0,0
+63009,Arabs,Iran,Middle East and North Africa,2005,4,4,2,1,1
+63009,Arabs,Iran,Middle East and North Africa,2006,4,4,2,0,0
+63010,Christians,Iran,Middle East and North Africa,2004,4,4,1,1,1
+63010,Christians,Iran,Middle East and North Africa,2005,4,4,1,1,1
+63010,Christians,Iran,Middle East and North Africa,2006,4,4,1,0,0
+64005,Kurds,Turkey,Middle East and North Africa,2004,4,2,2,0,0
+64005,Kurds,Turkey,Middle East and North Africa,2005,4,2,2,0,0
+64005,Kurds,Turkey,Middle East and North Africa,2006,4,2,2,0,0
+64504,Kurds,Iraq,Middle East and North Africa,2004,1,1,3,1,5
+64504,Kurds,Iraq,Middle East and North Africa,2005,1,1,3,1,3
+64504,Kurds,Iraq,Middle East and North Africa,2006,1,1,3,1,3
+64506,Shi'is,Iraq,Middle East and North Africa,2004,0,0,3,1,5
+64506,Shi'is,Iraq,Middle East and North Africa,2005,0,0,3,1,6
+64506,Shi'is,Iraq,Middle East and North Africa,2006,0,0,3,1,6
+64507,Sunnis,Iraq,Middle East and North Africa,2004,1,0,1,1,5
+64507,Sunnis,Iraq,Middle East and North Africa,2005,1,0,1,1,5
+64507,Sunnis,Iraq,Middle East and North Africa,2006,1,0,1,1,5
+65101,Copts,Egypt,Middle East and North Africa,2004,3,0,1,0,0
+65101,Copts,Egypt,Middle East and North Africa,2005,3,0,1,1,4
+65101,Copts,Egypt,Middle East and North Africa,2006,3,0,1,1,5
+65201,Alawi,Syria,Middle East and North Africa,2004,0,1,2,0,0
+65201,Alawi,Syria,Middle East and North Africa,2005,0,1,2,0,0
+65201,Alawi,Syria,Middle East and North Africa,2006,0,1,2,0,0
+65202,Kurds,Syria,Middle East and North Africa,2004,4,3,1,1,5
+65202,Kurds,Syria,Middle East and North Africa,2005,4,3,1,1,5
+65202,Kurds,Syria,Middle East and North Africa,2006,4,3,1,0,0
+66001,Druze,Lebanon,Middle East and North Africa,2004,0,0,3,0,0
+66001,Druze,Lebanon,Middle East and North Africa,2005,0,0,3,0,0
+66001,Druze,Lebanon,Middle East and North Africa,2006,0,0,3,0,0
+66002,Maronite Christians,Lebanon,Middle East and North Africa,2004,0,0,2,0,0
+66002,Maronite Christians,Lebanon,Middle East and North Africa,2005,0,0,2,-99,-99
+66002,Maronite Christians,Lebanon,Middle East and North Africa,2006,0,0,2,0,0
+66003,Palestinians,Lebanon,Middle East and North Africa,2004,4,4,1,0,0
+66003,Palestinians,Lebanon,Middle East and North Africa,2005,4,4,1,0,0
+66003,Palestinians,Lebanon,Middle East and North Africa,2006,4,4,1,0,0
+66004,Shi'is,Lebanon,Middle East and North Africa,2004,2,2,2,0,0
+66004,Shi'is,Lebanon,Middle East and North Africa,2005,2,2,2,0,0
+66004,Shi'is,Lebanon,Middle East and North Africa,2006,2,2,2,1,3
+66005,Sunnis,Lebanon,Middle East and North Africa,2004,0,0,0,1,4
+66005,Sunnis,Lebanon,Middle East and North Africa,2005,0,0,0,1,4
+66005,Sunnis,Lebanon,Middle East and North Africa,2006,0,0,0,1,3
+66302,Palestinians,Jordan,Middle East and North Africa,2004,3,2,1,0,0
+66302,Palestinians,Jordan,Middle East and North Africa,2005,3,2,1,0,0
+66302,Palestinians,Jordan,Middle East and North Africa,2006,3,2,1,1,3
+66601,Arabs,Israel,Middle East and North Africa,2004,4,3,2,1,1
+66601,Arabs,Israel,Middle East and North Africa,2005,4,3,2,1,3
+66601,Arabs,Israel,Middle East and North Africa,2006,4,3,2,1,3
+66603,Palestinians,Israel,Middle East and North Africa,2004,4,4,2,1,5
+66603,Palestinians,Israel,Middle East and North Africa,2005,4,4,2,1,5
+66603,Palestinians,Israel,Middle East and North Africa,2006,4,4,2,1,5
+67002,Shi'is,Saudi Arabia,Middle East and North Africa,2004,2,3,2,0,0
+67002,Shi'is,Saudi Arabia,Middle East and North Africa,2005,2,3,2,0,0
+67002,Shi'is,Saudi Arabia,Middle East and North Africa,2006,2,3,2,0,0
+69201,Shi'is,Bahrain,Middle East and North Africa,2004,1,1,0,0,0
+69201,Shi'is,Bahrain,Middle East and North Africa,2005,1,3,0,0,0
+69201,Shi'is,Bahrain,Middle East and North Africa,2006,1,3,0,0,0
+70001,Hazaras,Afghanistan,Asia,2004,1,1,2,1,5
+70001,Hazaras,Afghanistan,Asia,2005,1,1,2,1,3
+70001,Hazaras,Afghanistan,Asia,2006,1,1,2,0,0
+70002,Pashtuns,Afghanistan,Asia,2004,0,0,2,1,5
+70002,Pashtuns,Afghanistan,Asia,2005,0,0,2,1,5
+70002,Pashtuns,Afghanistan,Asia,2006,0,0,2,0,0
+70003,Tajiks,Afghanistan,Asia,2004,0,0,2,1,5
+70003,Tajiks,Afghanistan,Asia,2005,0,0,2,0,0
+70003,Tajiks,Afghanistan,Asia,2006,0,0,2,0,0
+70004,Uzbeks,Afghanistan,Asia,2004,0,0,3,1,5
+70004,Uzbeks,Afghanistan,Asia,2005,0,0,3,1,1
+70004,Uzbeks,Afghanistan,Asia,2006,0,0,3,0,0
+70101,Russians,Turkmenistan,Post-communist States,2004,4,4,1,0,0
+70101,Russians,Turkmenistan,Post-communist States,2005,4,4,1,0,0
+70101,Russians,Turkmenistan,Post-communist States,2006,4,4,1,0,0
+70201,Russians,Tajikistan,Post-communist States,2004,0,0,1,0,0
+70201,Russians,Tajikistan,Post-communist States,2005,0,0,1,0,0
+70201,Russians,Tajikistan,Post-communist States,2006,0,0,1,0,0
+70202,Uzbeks,Tajikistan,Post-communist States,2004,3,3,3,0,0
+70202,Uzbeks,Tajikistan,Post-communist States,2005,3,3,3,0,0
+70202,Uzbeks,Tajikistan,Post-communist States,2006,3,3,3,1,3
+70301,Russians,Kyrgyzstan,Post-communist States,2004,0,0,3,0,0
+70301,Russians,Kyrgyzstan,Post-communist States,2005,0,0,3,0,0
+70301,Russians,Kyrgyzstan,Post-communist States,2006,0,0,3,1,1
+70302,Uzbeks,Kyrgyzstan,Post-communist States,2004,3,2,3,0,0
+70302,Uzbeks,Kyrgyzstan,Post-communist States,2005,3,3,3,0,0
+70302,Uzbeks,Kyrgyzstan,Post-communist States,2006,3,3,3,1,1
+70401,Russians,Uzbekistan,Post-communist States,2004,3,0,1,0,0
+70401,Russians,Uzbekistan,Post-communist States,2005,3,0,1,0,0
+70401,Russians,Uzbekistan,Post-communist States,2006,3,0,1,0,0
+70402,Tajiks,Uzbekistan,Post-communist States,2004,3,3,1,0,0
+70402,Tajiks,Uzbekistan,Post-communist States,2005,3,3,1,0,0
+70402,Tajiks,Uzbekistan,Post-communist States,2006,3,3,1,0,0
+70501,Russians,Kazakhstan,Post-communist States,2004,3,3,3,0,0
+70501,Russians,Kazakhstan,Post-communist States,2005,3,3,3,0,0
+70501,Russians,Kazakhstan,Post-communist States,2006,3,3,3,0,0
+70502,Germans,Kazakhstan,Post-communist States,2004,3,2,3,0,0
+70502,Germans,Kazakhstan,Post-communist States,2005,3,2,3,0,0
+70502,Germans,Kazakhstan,Post-communist States,2006,3,2,3,0,0
+71002,Hui Muslims,China,Asia,2004,0,1,1,1,5
+71002,Hui Muslims,China,Asia,2005,0,1,1,0,0
+71002,Hui Muslims,China,Asia,2006,0,1,1,0,0
+71003,Turkmen,China,Asia,2004,4,3,3,0,0
+71003,Turkmen,China,Asia,2005,4,3,3,0,0
+71003,Turkmen,China,Asia,2006,4,3,3,0,0
+71005,Tibetans,China,Asia,2004,4,4,3,0,0
+71005,Tibetans,China,Asia,2005,4,4,3,0,0
+71005,Tibetans,China,Asia,2006,4,4,3,0,0
+71301,Aboriginal Taiwanese,Taiwan,Asia,2004,3,1,2,0,0
+71301,Aboriginal Taiwanese,Taiwan,Asia,2005,3,1,2,0,0
+71301,Aboriginal Taiwanese,Taiwan,Asia,2006,3,1,2,0,0
+71302,Mainland Chinese,Taiwan,Asia,2004,0,0,0,0,0
+71302,Mainland Chinese,Taiwan,Asia,2005,0,0,0,0,0
+71302,Mainland Chinese,Taiwan,Asia,2006,0,0,0,0,0
+71303,Taiwanese,Taiwan,Asia,2004,0,0,0,0,0
+71303,Taiwanese,Taiwan,Asia,2005,0,0,0,0,0
+71303,Taiwanese,Taiwan,Asia,2006,0,0,0,0,0
+73201,Honamese,"Korea South",Asia,2004,0,0,3,0,0
+73201,Honamese,"Korea South",Asia,2005,0,0,3,0,0
+73201,Honamese,"Korea South",Asia,2006,0,0,3,0,0
+74003,Koreans,Japan,Western Democracies and Japan,2004,4,3,1,0,0
+74003,Koreans,Japan,Western Democracies and Japan,2005,4,4,1,0,0
+74003,Koreans,Japan,Western Democracies and Japan,2006,4,4,1,1,1
+75007,Kashmiris,India,Asia,2004,4,3,3,1,3
+75007,Kashmiris,India,Asia,2005,4,3,3,1,3
+75007,Kashmiris,India,Asia,2006,4,3,3,1,4
+75008,Muslims,India,Asia,2004,3,3,0,1,3
+75008,Muslims,India,Asia,2005,3,3,0,1,5
+75008,Muslims,India,Asia,2006,3,3,0,1,5
+75009,Nagas,India,Asia,2004,2,2,3,1,5
+75009,Nagas,India,Asia,2005,2,2,3,1,5
+75009,Nagas,India,Asia,2006,2,2,3,1,5
+75011,Scheduled Tribes,India,Asia,2004,1,1,1,0,0
+75011,Scheduled Tribes,India,Asia,2005,1,1,1,1,3
+75011,Scheduled Tribes,India,Asia,2006,1,1,1,1,5
+75012,Sikhs,India,Asia,2004,0,0,3,0,0
+75012,Sikhs,India,Asia,2005,0,0,3,1,3
+75012,Sikhs,India,Asia,2006,0,0,3,0,0
+75013,Mizos,India,Asia,2004,0,0,3,0,0
+75013,Mizos,India,Asia,2005,0,0,3,-99,-99
+75013,Mizos,India,Asia,2006,0,0,3,0,0
+75014,Tripuras,India,Asia,2004,2,3,3,1,5
+75014,Tripuras,India,Asia,2005,2,3,3,1,3
+75014,Tripuras,India,Asia,2006,2,3,3,0,0
+75015,Assamese,India,Asia,2004,2,2,3,1,3
+75015,Assamese,India,Asia,2005,2,2,3,1,3
+75015,Assamese,India,Asia,2006,2,2,3,1,3
+75016,Bodos,India,Asia,2004,1,1,3,1,5
+75016,Bodos,India,Asia,2005,1,1,3,1,1
+75016,Bodos,India,Asia,2006,1,1,3,1,3
+76001,Lhotshampas,Bhutan,Asia,2004,4,4,3,0,0
+76001,Lhotshampas,Bhutan,Asia,2005,4,4,3,0,0
+76001,Lhotshampas,Bhutan,Asia,2006,4,4,3,0,0
+77001,Ahmadis,Pakistan,Asia,2004,4,3,0,1,4
+77001,Ahmadis,Pakistan,Asia,2005,4,3,0,1,4
+77001,Ahmadis,Pakistan,Asia,2006,4,3,0,1,5
+77002,Baluchis,Pakistan,Asia,2004,2,2,2,0,0
+77002,Baluchis,Pakistan,Asia,2005,2,2,2,0,0
+77002,Baluchis,Pakistan,Asia,2006,2,2,2,1,3
+77004,Hindus,Pakistan,Asia,2004,4,4,3,1,3
+77004,Hindus,Pakistan,Asia,2005,4,4,3,1,3
+77004,Hindus,Pakistan,Asia,2006,4,4,3,1,3
+77005,Pashtuns (Pushtuns),Pakistan,Asia,2004,0,4,3,1,3
+77005,Pashtuns (Pushtuns),Pakistan,Asia,2005,0,4,3,1,3
+77005,Pashtuns (Pushtuns),Pakistan,Asia,2006,0,4,3,1,3
+77006,Sindhis,Pakistan,Asia,2004,3,2,3,1,3
+77006,Sindhis,Pakistan,Asia,2005,3,2,3,0,0
+77006,Sindhis,Pakistan,Asia,2006,3,2,3,0,0
+77007,Mohajirs,Pakistan,Asia,2004,0,0,3,1,5
+77007,Mohajirs,Pakistan,Asia,2005,0,0,3,1,5
+77007,Mohajirs,Pakistan,Asia,2006,0,0,3,1,5
+77101,Chittagong Hill Tribes,Bangladesh,Asia,2004,1,1,3,1,3
+77101,Chittagong Hill Tribes,Bangladesh,Asia,2005,1,1,3,1,3
+77101,Chittagong Hill Tribes,Bangladesh,Asia,2006,1,1,3,1,3
+77102,Hindus,Bangladesh,Asia,2004,4,3,0,1,1
+77102,Hindus,Bangladesh,Asia,2005,4,3,0,1,3
+77102,Hindus,Bangladesh,Asia,2006,4,3,0,1,3
+77103,Biharis,Bangladesh,Asia,2004,4,4,0,1,1
+77103,Biharis,Bangladesh,Asia,2005,4,4,0,0,0
+77103,Biharis,Bangladesh,Asia,2006,4,4,0,0,0
+77501,Rohingya (Arakanese),Burma,Asia,2004,4,4,3,0,0
+77501,Rohingya (Arakanese),Burma,Asia,2005,4,4,3,0,0
+77501,Rohingya (Arakanese),Burma,Asia,2006,4,4,3,0,0
+77502,Zomis (Chins),Burma,Asia,2004,4,4,1,0,0
+77502,Zomis (Chins),Burma,Asia,2005,4,4,1,0,0
+77502,Zomis (Chins),Burma,Asia,2006,4,4,1,0,0
+77503,Kachins,Burma,Asia,2004,3,4,3,0,0
+77503,Kachins,Burma,Asia,2005,3,4,3,0,0
+77503,Kachins,Burma,Asia,2006,3,4,3,0,0
+77504,Karens,Burma,Asia,2004,4,4,3,1,3
+77504,Karens,Burma,Asia,2005,4,4,3,1,1
+77504,Karens,Burma,Asia,2006,4,4,3,0,0
+77505,Mons,Burma,Asia,2004,4,4,3,1,5
+77505,Mons,Burma,Asia,2005,4,4,3,0,0
+77505,Mons,Burma,Asia,2006,4,4,3,0,0
+77507,Shans,Burma,Asia,2004,4,4,3,0,0
+77507,Shans,Burma,Asia,2005,4,4,3,1,5
+77507,Shans,Burma,Asia,2006,4,4,3,0,0
+78001,Indian Tamils,Sri Lanka,Asia,2004,3,3,2,1,5
+78001,Indian Tamils,Sri Lanka,Asia,2005,3,3,2,0,0
+78001,Indian Tamils,Sri Lanka,Asia,2006,3,3,2,0,0
+78002,Sri Lankan Tamils,Sri Lanka,Asia,2004,4,4,2,1,4
+78002,Sri Lankan Tamils,Sri Lanka,Asia,2005,4,4,2,1,3
+78002,Sri Lankan Tamils,Sri Lanka,Asia,2006,4,4,2,1,3
+80001,Chinese,Thailand,Asia,2004,0,0,0,1,3
+80001,Chinese,Thailand,Asia,2005,0,0,0,1,3
+80001,Chinese,Thailand,Asia,2006,0,0,0,0,0
+80002,Malay-Muslims,Thailand,Asia,2004,1,1,3,1,3
+80002,Malay-Muslims,Thailand,Asia,2005,1,1,3,1,3
+80002,Malay-Muslims,Thailand,Asia,2006,1,1,3,1,3
+80003,Northern Hill Tribes,Thailand,Asia,2004,1,1,3,0,0
+80003,Northern Hill Tribes,Thailand,Asia,2005,1,1,3,0,0
+80003,Northern Hill Tribes,Thailand,Asia,2006,1,1,3,0,0
+81103,Vietnamese,Cambodia,Asia,2004,4,4,0,0,0
+81103,Vietnamese,Cambodia,Asia,2005,4,4,0,0,0
+81103,Vietnamese,Cambodia,Asia,2006,4,4,0,0,0
+81201,Hmong,Laos,Asia,2004,2,1,3,0,0
+81201,Hmong,Laos,Asia,2005,2,1,3,0,0
+81201,Hmong,Laos,Asia,2006,2,1,3,0,0
+81602,Chinese,Vietnam,Asia,2004,0,0,1,0,0
+81602,Chinese,Vietnam,Asia,2005,0,0,1,0,0
+81602,Chinese,Vietnam,Asia,2006,0,0,1,0,0
+81604,Montagnards,Vietnam,Asia,2004,4,4,3,0,0
+81604,Montagnards,Vietnam,Asia,2005,4,4,3,0,0
+81604,Montagnards,Vietnam,Asia,2006,4,4,3,0,0
+82001,Chinese,Malaysia,Asia,2004,3,0,1,0,0
+82001,Chinese,Malaysia,Asia,2005,3,0,1,0,0
+82001,Chinese,Malaysia,Asia,2006,3,0,1,0,0
+82002,Dayaks,Malaysia,Asia,2004,2,1,3,0,0
+82002,Dayaks,Malaysia,Asia,2005,2,1,3,0,0
+82002,Dayaks,Malaysia,Asia,2006,2,1,3,0,0
+82003,East Indians,Malaysia,Asia,2004,2,2,0,0,0
+82003,East Indians,Malaysia,Asia,2005,2,2,0,0,0
+82003,East Indians,Malaysia,Asia,2006,2,2,0,0,0
+82004,Kadazans,Malaysia,Asia,2004,2,2,3,0,0
+82004,Kadazans,Malaysia,Asia,2005,2,2,3,0,0
+82004,Kadazans,Malaysia,Asia,2006,2,2,3,0,0
+83001,Malays,Singapore,Asia,2004,3,1,0,0,0
+83001,Malays,Singapore,Asia,2005,3,1,0,0,0
+83001,Malays,Singapore,Asia,2006,3,1,0,0,0
+84002,Igorots,Philippines,Asia,2004,1,1,3,0,0
+84002,Igorots,Philippines,Asia,2005,1,1,3,0,0
+84002,Igorots,Philippines,Asia,2006,1,1,3,0,0
+84003,Moros,Philippines,Asia,2004,1,1,3,0,0
+84003,Moros,Philippines,Asia,2005,1,1,3,0,0
+84003,Moros,Philippines,Asia,2006,1,1,3,1,3
+85003,Chinese,Indonesia,Asia,2004,4,3,1,0,0
+85003,Chinese,Indonesia,Asia,2005,4,3,1,0,0
+85003,Chinese,Indonesia,Asia,2006,4,3,1,1,2
+85005,Papuans,Indonesia,Asia,2004,1,4,3,1,3
+85005,Papuans,Indonesia,Asia,2005,1,1,3,0,0
+85005,Papuans,Indonesia,Asia,2006,1,1,3,0,0
+85006,Acehnese,Indonesia,Asia,2004,1,1,3,1,3
+85006,Acehnese,Indonesia,Asia,2005,1,1,3,0,0
+85006,Acehnese,Indonesia,Asia,2006,1,1,3,0,0
+90001,Aborigines,Australia,Western Democracies and Japan,2004,1,1,2,1,1
+90001,Aborigines,Australia,Western Democracies and Japan,2005,1,1,2,0,0
+90001,Aborigines,Australia,Western Democracies and Japan,2006,1,1,2,0,0
+91001,Bouganvilleans,Papua New Guinea,Asia,2004,1,1,3,0,0
+91001,Bouganvilleans,Papua New Guinea,Asia,2005,1,1,3,0,0
+91001,Bouganvilleans,Papua New Guinea,Asia,2006,1,1,3,0,0
+92001,Maori,New Zealand,Western Democracies and Japan,2004,1,2,1,0,0
+92001,Maori,New Zealand,Western Democracies and Japan,2005,1,2,1,0,0
+92001,Maori,New Zealand,Western Democracies and Japan,2006,1,2,1,0,0
+95001,East Indians,Fiji,Asia,2004,3,3,0,0,0
+95001,East Indians,Fiji,Asia,2005,3,3,0,-99,-99
+95001,East Indians,Fiji,Asia,2006,3,3,0,0,0
+95002,Fijians,Fiji,Asia,2004,0,1,0,0,0
+95002,Fijians,Fiji,Asia,2005,0,1,0,-99,-99
+95002,Fijians,Fiji,Asia,2006,0,1,0,0,0

@@ -22,73 +22,100 @@ class case:
                                                       self.CCGROUPSEV1)
 
 
-full_data = {}
-with open ("Ethnic Enclave Data MAR _ S.csv" ) as csvfile:
-    readCSV = csv.reader(csvfile, delimiter=',')
-    csvfile.readline()
+def parser(file):
+    """Returns a dictionary of case instances. The keys are the number codes of the cases,
+    and the values are the corresponding case instance. """
+    data_dictionary = {}
+    with open(file) as csvfile:
+        readcsv = csv.reader(csvfile, delimiter=',')
+        csvfile.readline()
 
-    for row in readCSV:
+        for row in readcsv:
+            tuple(row)
+            numcode, VMAR_Group, country, VMAR_Region,\
+            year, POLDIS, ECDIS, GROUPCON, INTERCON , \
+            CCGROUPSEV1 = row
 
-        numcode = row[0]
-        VMAR_Group = row[1]
-        country = row[2]
-        VMAR_Region = row[3]
-        year = row[4]
-        POLDIS= row[5]
-        ECDIS = row[6]
-        GROUPCON = row[7]
-        INTERCON = row[8]
-        CCGROUPSEV1 = row[9]
+            data_dictionary[numcode] = case(numcode, VMAR_Group, country, VMAR_Region,year, POLDIS, ECDIS, GROUPCON,
+                                    INTERCON, CCGROUPSEV1)
 
-        full_data[numcode] = case(numcode, VMAR_Group, country, VMAR_Region,year, POLDIS, ECDIS, GROUPCON,
-                                  INTERCON, CCGROUPSEV1)
+        return data_dictionary
 
 
-low_level = {}
-high_level= {}
+def ecdisselector(data, valuesneeded):
+    selected_data = {}
+    for i in data:
 
-for i in full_data:
-
-    if full_data[i].POLDIS in ["0", "1", "2"]:
-        if full_data[i].ECDIS in ["0", "1", "2"]:
-            low_level[i] = full_data[i]
-    if full_data[i].POLDIS in ["3", "4"]:
-        if full_data[i].ECDIS in ["3", "4"]:
-            high_level[i] = full_data[i]
+        if data[i].ECDIS in valuesneeded:
+            selected_data[i] = data[i]
+    return selected_data
 
 
+def poldisselector(data, valuesneeded):
 
-for i in low_level:
-    print("Case #: {} \n POLDIS #: {} \n ECDIS #: {} ".format(i, low_level[i].POLDIS, low_level[i].ECDIS))
-    print("-" * 10)
+    selected_data = {}
+    for i in data:
+        if data[i].POLDIS in valuesneeded:
+            selected_data[i] = data[i]
+    return selected_data
 
-print("--------------------------------------------------------------")
 
-y_values = []
-x_values = []
+data_dictionary = parser("Ethnic Enclave Data MAR _ S.csv")
 
-for i in full_data:
-    if full_data[i].GROUPCON == "-99":
-        continue
-    if full_data[i].CCGROUPSEV1 == "-99":
-        continue
+for i in data_dictionary:
+    print("Case #", i, ":", data_dictionary[i])
 
 
 
-    y_values.append(int(full_data[i].GROUPCON))
-    x_values.append(int(full_data[i].CCGROUPSEV1))
+
+
+
+# low_level = {}
+#
+#
+# high_level = {}
+#
+# for i in full_data:
+#
+#     if full_data[i].POLDIS in ["0", "1", "2"]:
+#         if full_data[i].ECDIS in ["0", "1", "2"]:
+#             low_level[i] = full_data[i]
+#     if full_data[i].POLDIS in ["3", "4"]:
+#         if full_data[i].ECDIS in ["3", "4"]:
+#             high_level[i] = full_data[i]
+#
+#
+# for i in low_level:
+#     print("Case #: {} \n POLDIS #: {} \n ECDIS #: {} ".format(i, low_level[i].POLDIS, low_level[i].ECDIS))
+#     print("-" * 10)
+#
+# print("--------------------------------------------------------------")
+
+# y_values = []
+# x_values = []
+#
+# for i in full_data:
+#     if full_data[i].GROUPCON == "-99":
+#         continue
+#     if full_data[i].CCGROUPSEV1 == "-99":
+#         continue
+#
+#
+#
+#     y_values.append(int(full_data[i].GROUPCON))
+#     x_values.append(int(full_data[i].CCGROUPSEV1))
 # print(y_values)
 # print(x_values)
 
-slope, intercept, r_value, p_value, std_err = stats.linregress(x_values,y_values)
-print("Slope of best fit line is" , slope)
-print("r_value - ", r_value)
-
-
-plt.scatter(x_values, y_values, alpha='.5')
-plt.axis([0, 3, 0, 6])
-
-plt.show()
+# slope, intercept, r_value, p_value, std_err = stats.linregress(x_values,y_values)
+# print("Slope of best fit line is" , slope)
+# print("r_value - ", r_value)
+#
+#
+# plt.scatter(x_values, y_values, alpha='.5')
+# plt.axis([0, 3, 0, 6])
+#
+# plt.show()
 
 
 
